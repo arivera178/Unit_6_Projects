@@ -14,7 +14,10 @@
 */
 
 /* HTML Styles */
-
+html{ 
+background-image: url(sd_back1.png);
+width: 100%;
+}
 
 
 /* Body Styles */
