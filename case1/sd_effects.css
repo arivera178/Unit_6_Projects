@@ -21,7 +21,10 @@ width: 100%;
 
 
 /* Body Styles */
-
+body{
+   background-image: url(sd_back2.png);
+   background: radial-gradient(closest-side at 40% 70%, white 15%, rgba(151,151,151,0.5));
+}
 
 
 
